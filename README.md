@@ -6,3 +6,4 @@
 -
 # sistema supportato
 [![Windows 11 Logo](win11/icons8-windows-11-48.png)](https://link_di_destinazione)
+[![Windows 11 Logo](win10/icons8-windows-10-61.png)](https://link_di_destinazione)
