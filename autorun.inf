@@ -1,0 +1,6 @@
+[Version]
+Signature="$Windows NT$"
+[DefaultInstall]
+AddReg=ProtectionSettings
+[ProtectionSettings]
+"HKLM\Software\Microsoft\Windows\CurrentVersion\Policies"="CheckSecurity"
