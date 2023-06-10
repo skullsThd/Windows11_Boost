@@ -22,4 +22,5 @@ Ovviamente si e un progetto che rimane nel tempo e continueremo con i script dei
 
 # progamma da eseguire
 Unix ```chmod +x autorun.sh```
+#
 Windows ```autorun.bat```
