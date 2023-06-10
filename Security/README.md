@@ -11,4 +11,9 @@
   "decline_time": "60 minutes",
   "ip_addresses": []
 }
+'''{
+  "encryption_version": "2.0",
+  "decline_time": "60 minutes",
+  "ip_addresses": []
+}
 '''
