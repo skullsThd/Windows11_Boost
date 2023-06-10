@@ -19,5 +19,3 @@ Per utilizzare SnynixyDataProtect, è possibile configurare le impostazioni attr
       "name": "Let snixyDataProtect.",
   }
 }
-
-```
