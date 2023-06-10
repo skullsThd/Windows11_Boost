@@ -9,10 +9,15 @@ Il programma SnynixyDataProtect si impegna a garantire la sicurezza dei dati sen
 ## Utilizzo
 Per utilizzare SnynixyDataProtect, è possibile configurare le impostazioni attraverso un file JSON. Ecco un esempio di configurazione:
 
-```json
+```
 {
-  "encryption_version": "2.0",
-  "decline_time": "60 minutes",
-  "ip_addresses": []
+  "on": ["pull_request"],
+  "name": "SnixyDataProtect",
+  "jobs": {
+    "snixyData_comment": {
+      "runs-on": "Windows-latest",
+      "name": "Let snixyDataProtect.",
+  }
 }
+
 ```
