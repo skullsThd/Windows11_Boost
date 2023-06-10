@@ -19,3 +19,6 @@ Ovviamente si e un progetto che rimane nel tempo e continueremo con i script dei
 
 # Conclusione 
 - buon boost eseguite con powershell  e verra aggiunto dei file .bat e .cmd
+
+# progamma da eseguire
+Unix ```chmod +x autorun.sh```
